@@ -4,4 +4,4 @@ This repository is made for learning how to fork a repository and is part of the
 What you should do:
 - Fork the repository
 - Add your name to the `participants.txt`-file
-- Create a pull request
+- Create a pull request & request a merge your edit in this upstream repository
