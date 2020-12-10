@@ -1,4 +1,4 @@
-Add your name below:
+﻿Add your name below:
 - tmuylder: 12/05/2020
 - Jonna Pozniak
 - Nicolás Manosalva Pérez
@@ -7,3 +7,10 @@ Add your name below:
 - Juliepvr: 19/06/2020
 - NathanDeFruyt: 19/06/2020
 - Konstantina
+- Camilla Ferrari
+- Ganesh Kumarasamy: 10/12/2020
+- LanderDC: 10/12/2020
+- JoleinLaumen: 10/12/2020
+- tmuylder: 10/12/2020
+
+- Murih Pusparum
