@@ -1,4 +1,4 @@
-Add your name below:
+﻿Add your name below:
 - tmuylder: 12/05/2020
 - Jonna Pozniak
 - Nicolás Manosalva Pérez
@@ -6,5 +6,14 @@ Add your name below:
 - WeronikaKowalczyk: 19/06/2020
 - Juliepvr: 19/06/2020
 - NathanDeFruyt: 19/06/2020
+-DriesHeyln
+- Marlies Brouckaert: 12/10/2020
+- Konstantina
+- Camilla Ferrari
+- Ganesh Kumarasamy: 10/12/2020
+- LanderDC: 10/12/2020
+- JoleinLaumen: 10/12/2020
 - tmuylder: 10/12/2020
 - hannevl: 10/12/2020
+
+- Murih Pusparum
