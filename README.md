@@ -1,9 +1,11 @@
 # Forking
-This repository is made for learning how to fork a repository and is part of the VIB - BITS introduction to Git & GitHub course. 
+This repository is made for learning how to fork a repository and is part of the VIB - BITS & ELIXIR Belgium **introduction to Git & GitHub course**. 
 
 What you should do:
 - Fork the repository
+- Create a branch
 - Add your name to the `participants.txt`-file
-- Create a pull request & request a merge your edit in this upstream repository
+- Stage, commit & push
+- Create a pull request & to merge in this upstream repository
 
-Practice
+Good luck!
