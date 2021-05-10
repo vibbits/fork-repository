@@ -1,5 +1,5 @@
 # Forking
-This repository is made for learning how to fork a repository and is part of the VIB - BITS & ELIXIR Belgium **introduction to Git & GitHub course**. 
+This repository is made for learning how to fork a repository and is part of the VIB - BITS & ELIXIR Belgium **introduction to Git & GitHub course** ([link to the course materials](https://material.bits.vib.be/topics/git-introduction/)). 
 
 What you should do:
 - Fork the repository
