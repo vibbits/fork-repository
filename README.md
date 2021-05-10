@@ -3,9 +3,9 @@ This repository is made for learning how to fork a repository and is part of the
 
 What you should do:
 - Fork the repository
-- Create a branch
+- Create a branch (e.g. `yourname`)
 - Add your name to the `participants.txt`-file
 - Stage, commit & push
-- Create a pull request & to merge in this upstream repository
+- Create a pull request & merge your changes into the `dev` branch. 
 
 Good luck!
