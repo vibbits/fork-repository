@@ -1,4 +1,4 @@
-﻿Add your name below:
+Add your name below:
 - tmuylder: 12/05/2020 - 12/04/2021
 - Jonna Pozniak 01/01/2022
 - Nicolás Manosalva Pérez
@@ -23,6 +23,7 @@
 - Murih Pusparum
 - Diedrik: 2021-05-11
 -Tatiana Woller: 2022-06-24
+- Sébastien Dumas: 2022-06-17
 - Julika 20220617
 - Bruna Piereck 17th June 2022
 - Count Dracula: 01/03/1904
