@@ -6,7 +6,7 @@
 - WeronikaKowalczyk: 19/06/2020
 - Juliepvr: 19/06/2020
 - NathanDeFruyt: 19/06/2020
--DriesHeyln
+- DriesHeyln
 - Marlies Brouckaert: 12/10/2020
 - Konstantina
 - Camilla Ferrari
@@ -21,3 +21,4 @@
 - Romanos Siap
 - Murih Pusparum
 - Diedrik: 2021-05-11
+- Alex: 2022-06-17
