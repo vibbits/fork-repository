@@ -1,4 +1,4 @@
-﻿Add your name below:
+Add your name below:
 - tmuylder: 12/05/2020 - 12/04/2021
 - Jonna Pozniak
 - Nicolás Manosalva Pérez
@@ -21,3 +21,4 @@
 - Romanos Siap
 - Murih Pusparum
 - Diedrik: 2021-05-11
+- Sébastien Dumas: 2022-06-17
